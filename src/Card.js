@@ -4,9 +4,9 @@ function Card()
 {
     return(
         <div>
-            <div>image</div>
-            <div>title</div>
-            <div>description</div>
+            <p>image</p>
+            <p>title</p>
+            <p>description</p>
         </div>
     )
 }
