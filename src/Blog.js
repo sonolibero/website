@@ -6,7 +6,7 @@ function Blog()
         <div>
             <p>telegram icon</p>
             <p>desc</p>
-            <button onClick={null}>unisciti</button>
+            <button onClick={null}>unisciti ora</button>
         </div>
     )
 }
