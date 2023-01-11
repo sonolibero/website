@@ -5,16 +5,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 h1 {
   font-family: 'Press Start 2P',
     sans-serif;
   font-size: 30px;
-  background: -webkit-linear-gradient(bottom, #FFDD00 25%, #45E773 50%, #2DD2FF 75%);
+  background: -webkit-linear-gradient(bottom, #FFDD00 5%, #45E773 45%, #2DD2FF 70%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

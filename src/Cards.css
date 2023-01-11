@@ -1,0 +1,42 @@
+.content {
+    font-family: 'Press Start 2P',
+      sans-serif;
+    font-size: 20px;
+    margin: 10px;
+  }
+  
+  .clarity {
+    color: #2DD2FF;
+  }
+  
+  .nature {
+    color: #45E773;
+  }
+  
+  .projects {
+    color: #FFDD00;
+  }
+
+  .rounded-clarity {
+    border: 1px solid #2DD2FF;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+
+  .rounded-nature {
+    border: 1px solid #45E773;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+
+  .rounded-projects {
+    border: 1px solid #FFDD00;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }

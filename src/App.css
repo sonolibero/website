@@ -40,47 +40,6 @@
   box-shadow: 0 0 50px 1px #111111;
 }
 
-.content {
-  font-family: 'Press Start 2P',
-    sans-serif;
-    margin: 10px;
-}
-
-.clarity {
-  color: #2DD2FF;
-}
-
-.nature {
-  color: #45E773;
-}
-
-.projects {
-  color: #FFDD00;
-}
-
-.clarity-border {
-  border: 1px solid #2DD2FF;
-}
-
-.nature-border {
-  border: 1px solid #45E773;
-}
-
-.projects-border {
-  border: 1px solid #FFDD00;
-}
-
-.sponsor-border {
-  border: 1px solid #FE484C;
-}
-
-.rounded-img {
-  border-radius: 50%;
-  width: 30px;
-  height: 30px;
-  margin: 5px;
-}
-
 .footer-container {
   padding-bottom: 30px;
 }
