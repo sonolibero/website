@@ -13,6 +13,7 @@ code {
 h1 {
   font-family: 'Press Start 2P',
     sans-serif;
+  font-size: 30px;
   background: -webkit-linear-gradient(bottom, #FFDD00 25%, #45E773 50%, #2DD2FF 75%);
   background-clip: text;
   -webkit-background-clip: text;

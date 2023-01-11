@@ -37,7 +37,7 @@
   margin: 30px;
   border-radius: 15px;
   padding: 30px;
-  box-shadow: 0 0 20px 2px #000000;
+  box-shadow: 0 0 50px 1px #111111;
 }
 
 .content {
@@ -85,12 +85,7 @@
   padding-bottom: 30px;
 }
 
-.icon {
-  width: 35px;
-  height: 35px;
-}
-
 .logo {
-  height: 120px;
+  height: 70px;
   pointer-events: none;
 }
