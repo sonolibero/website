@@ -1,13 +1,13 @@
 .icon {
     width: 35px;
     height: 35px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .blog {
     font-size: 16px;
 }
 
-.telegram {
-    margin-top: 100px;
-}
+.cta {
+    color: #FE484C;
+  }

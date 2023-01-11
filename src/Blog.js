@@ -16,7 +16,7 @@ function Blog() {
                     <div>un alternarsi di movimento e pause, 🧘🏽</div>
                     <div>in cerca di domande migliori. 💭</div>
                 </p>
-                <p>vuoi salire a bordo?</p>
+                <p className="cta">vuoi salire a bordo? 🤗</p>
             </div>
             <a href={TELEGRAM_LINK} target="_blank" rel="noreferrer">
                 <img alt="Telegram Logo" className="icon" src={telegramLogo} />
