@@ -8,8 +8,7 @@ function Blog() {
             <a href={TELEGRAM_LINK} target="_blank" rel="noreferrer">
                 <img alt="Telegram Logo" className="logo" src={telegramLogo} />
             </a>
-            <p>desc</p>
-            <button onClick={null}>unisciti ora</button>
+            <p>un viaggio sul Pianeta Terra</p>
         </div>
     )
 }

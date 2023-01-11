@@ -4,11 +4,8 @@ import Blog from './Blog';
 import Cards from './Cards';
 import Sponsor from './Sponsor';
 import logo from './logo.png';
-import twitterLogo from './utils/twitter.svg';
 
 function App() {
-  const TWITTER_HANDLE = 'verci_eth';
-  const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
   return (
     <div className='app'>
@@ -25,9 +22,6 @@ function App() {
             <Sponsor />
         </div>
         <div className='footer-container'>
-          <a href={TWITTER_LINK} target="_blank" rel="noreferrer">
-            <img alt="Twitter Logo" className="logo" src={twitterLogo} />
-          </a>
         </div>
       </div>
     </div>

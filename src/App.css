@@ -35,6 +35,35 @@
 
 .card {
   margin: 30px;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 0 20px 2px #000000;
+}
+
+.content {
+  font-family: 'Press Start 2P',
+    sans-serif;
+    margin: 10px;
+}
+
+.clarity {
+  color: #2DD2FF;
+}
+
+.nature {
+  color: #45E773;
+}
+
+.projects {
+  color: #FFDD00;
+}
+
+.rounded-img {
+  border-radius: 50%;
+  border: 1px solid #2DD2FF;
+  width: 30px;
+  height: 30px;
+  margin: 5px;
 }
 
 .footer-container {
