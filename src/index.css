@@ -9,3 +9,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-family: 'Press Start 2P',
+    sans-serif;
+  background: -webkit-linear-gradient(bottom, #FFDD00 25%, #45E773 50%, #2DD2FF 75%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+button {
+  background-color: #2DD2FF;
+  border: 0;
+  border-radius: 10px;
+  height: 45px;
+  width: auto;
+  margin: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'JetBrains Mono';
+  font-size: 16px;
+  font-weight: bold;
+  color: #262626;
+  cursor: pointer;
+}

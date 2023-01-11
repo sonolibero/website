@@ -1,23 +1,53 @@
 :root {
-  text-align: center;
   background-color: #282c34;
   font-size: calc(10px + 2vmin);
   color: #F3FAF3;
 }
 
-header {
-  min-height: 10vh;
+.app {
+  height: 100vh;
+  overflow: scroll;
 }
 
-body {
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  height: 100%;
+}
+
+.header-container {
+  padding-top: 30px;
+}
+
+.title {
   display: flex;
   flex-direction: row;
-  align-items: center;
   justify-content: center;
 }
 
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card {
+  margin: 30px;
+}
+
+.footer-container {
+  padding-bottom: 30px;
+}
+
+.logo {
+  width: 35px;
+  height: 35px;
+}
+
 .App-logo {
-  height: 20vmin;
+  height: 120px;
   pointer-events: none;
 }
 
