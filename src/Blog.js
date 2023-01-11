@@ -6,7 +6,7 @@ function Blog() {
     return(
         <div className="card">
             <a href={TELEGRAM_LINK} target="_blank" rel="noreferrer">
-                <img alt="Telegram Logo" className="logo" src={telegramLogo} />
+                <img alt="Telegram Logo" className="icon" src={telegramLogo} />
             </a>
             <p>un viaggio sul Pianeta Terra</p>
         </div>

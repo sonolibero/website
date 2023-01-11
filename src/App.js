@@ -12,7 +12,7 @@ function App() {
       <div className='container'>
         <div className='header-container'>
           <div className='title'>
-            <img src={logo} className="App-logo" alt="logo"/>
+            <img src={logo} className="logo" alt="logo"/>
             <h1>sonolibero.io</h1>
           </div>
           <div className='main'>
