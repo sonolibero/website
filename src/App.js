@@ -19,9 +19,9 @@ function App() {
             <Blog />
             <Cards />
           </div>
-            <Sponsor />
         </div>
         <div className='footer-container'>
+          <Sponsor />
         </div>
       </div>
     </div>

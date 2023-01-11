@@ -9,20 +9,20 @@ function Cards()
             <div>
                 <div className="content clarity">chiarezza</div>
                 <div>
-                    <img src={soon} className="rounded-img" alt="Coming Soon"/>
+                    <img src={soon} className="rounded-img clarity-border" alt="Coming Soon"/>
                 </div>
             </div>
             <div>
                 <div className="content nature">natura</div>
                 <div>
-                    <img src={soon} className="rounded-img" alt="Coming Soon"/>
+                    <img src={soon} className="rounded-img nature-border" alt="Coming Soon"/>
                 </div>
             </div>
             <div>
                 <div className="content projects">progetti</div>
                 <div>
                     <a href="https://vercingetorige.tech" target="_blank" rel="noreferrer">
-                        <img src={verci} className="rounded-img" alt="vercingetorige.tech"/>
+                        <img src={verci} className="rounded-img projects-border" alt="vercingetorige.tech"/>
                     </a>
                 </div>
             </div>
