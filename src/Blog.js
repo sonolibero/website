@@ -9,12 +9,12 @@ function Blog() {
             <div className="blog">
                 <p>sonolibero è un racconto.. ✍🏽</p>
                 <p>
-                    <div>di un viaggio sul Pianeta Terra, 🌏</div>
-                    <div>unica nostra amata casa. 🏕️</div>
+                    <span>di un viaggio sul Pianeta Terra, 🌏</span><br></br>
+                    <span>unica nostra amata casa. 🏕️</span>
                 </p>
                 <p>
-                    <div>un alternarsi di movimento e pause, 🧘🏽</div>
-                    <div>in cerca di domande migliori. 💭</div>
+                    <span>un alternarsi di movimento e pause, 🧘🏽</span><br></br>
+                    <span>in cerca di domande migliori. 💭</span>
                 </p>
                 <p className="cta">vuoi salire a bordo? 🤗</p>
             </div>
