@@ -8,8 +8,8 @@ body {
 h1 {
   font-family: 'Press Start 2P',
     sans-serif;
-  font-size: 30px;
-  background: -webkit-linear-gradient(bottom, #FFDD00 5%, #45E773 45%, #2DD2FF 70%);
+  font-size: 25px;
+  background: -webkit-linear-gradient(bottom, #FFDD00 0%, #45E773 50%, #2DD2FF 80%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
